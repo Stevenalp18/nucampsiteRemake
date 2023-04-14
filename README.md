@@ -1,6 +1,6 @@
 # Nucampsite
 
-This is my first website that I create using Bootstrap.js, Hope you enjoy this grid based system. 
+This is my first website that I create using Bootstrap.js, Hope you enjoy my first project attempt at using Bootstrap. 
 
 While you are here, check out my personal website with a few other projects and I will also link my Github below. 
 
