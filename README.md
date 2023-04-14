@@ -8,3 +8,9 @@ Link to **[Github](https://github.com/Stevenalp18)**
 
 
 Link to **[Personal Portfolio](https://stevenalp.com/)**
+
+I am also practicing using markup in this Readme file.
+
+------------------------------------------------------------
+
+This is a hands on learning project assigned by the Full Stack Bootcamp course at [Nucamp Full Stack Bootcamp](https://www.nucamp.co/bootcamp-overview/full-stack-web-mobile-development)
