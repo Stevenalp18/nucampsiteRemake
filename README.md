@@ -4,7 +4,7 @@ This is my first website that I create using Bootstrap.js, Hope you enjoy this g
 
 While you are here, check out my personal website with a few other projects and I will also link my Github below. 
 
-Link to **[EFF](https://github.com/Stevenalp18)Github**
+Link to **[Github](https://github.com/Stevenalp18)**
 
 
-Link to **[EFF](https://stevenalp.com/)Personal Portfolio**
+Link to **[Personal Portfolio](https://stevenalp.com/)**
