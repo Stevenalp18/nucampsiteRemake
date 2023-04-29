@@ -14,9 +14,34 @@ header h2 {
     color: #CEC8FF;
 }
 
+section h2{
+    color: black;
+}
+
 footer {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
+}
+
+.text-black {
+    color: black;
+}
+
+.hero{
+    background-image: linear-gradient(45deg, rgba(256,256,256,0), rgba(0,0,0,0)), 
+    url('https://images.pexels.com/photos/1061640/pexels-photo-1061640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    width: 100%;
+    height: 50vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.opacity-none{
+    display: block;
+    opacity: 1;
 }
 
 .jumbotron {
@@ -33,8 +58,9 @@ footer {
 }
 
 .navbar{
-    background-color: #901CAD;
+    background-color: #F5F5F5;
 }
+
 
 .site-footer{
     background-image: linear-gradient(#CEC8FF, white);
@@ -47,14 +73,22 @@ footer {
     padding: 10px;
 }
 
-.navbar-dark{
-    background-color: #901CAD;
-}
-
 .carousel-caption{
     background-color: rgba(0,0,0,0.5);
 }
 
 .carousel{
     border: solid #5637DD;
+}
+
+.border-test{
+    border: solid black 1px;
+}
+
+section.hero div.row-content{
+    border: 0;
+}
+
+.active{
+    color: #dddddd;
 }
